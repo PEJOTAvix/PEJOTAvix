@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PEJOTAvix
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning GitHub and Cloud Computing
-- 💞️ I’m looking to collaborate on my Python Projects
+- 👀 I’m interested in Machine Vision, Machine Learning and Data Science
 - 📫 How to reach me linkedin.com/in/paulobarbosavix/
 
 <!---
